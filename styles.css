@@ -1,2 +1,22 @@
+/* Apply basic styling to the song container */
+.song-container {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
 
+/* Style the anchor tag (song name) */
+.song-link {
+    color: #ff6347; /* Tomato color for the link */
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+/* Hover effect for the anchor tag */
+.song-link:hover {
+    text-decoration: underline;
+    color: #ff4500; /* Orange Red when hovered */
+}
 /* Your CSS Code here. */
